@@ -1,7 +1,7 @@
 # FriendController
 Get ja Delete WebAPI
 
-##
+## Usage
 
 GET/api/Friend/
 GET/api/Friend/Pera
