@@ -1,5 +1,5 @@
-# FriendController
-Get ja Delete WebAPI
+## ASP.NET WebApi FriendController
+Playing with controller. Get ja Delete WebAPI
 
 ## Usage
 
